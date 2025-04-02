@@ -12,8 +12,8 @@
 1. **Клонирование репозитория**
 
 ```bash
-git clone https://github.com/...
-cd ...
+git clone https://github.com/Hau5gei5t/Meetuppoint_test_server
+cd Meetuppoint_test_server
 ```
 
 2. **Настройка окружения**
