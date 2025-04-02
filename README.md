@@ -87,7 +87,8 @@ docker-compose exec web python manage.py createsuperuser
 ```
 ## Текущая ER-диаграмма базы данных
 
-![ER-диаграмма](https://github.com/user-attachments/assets/8fc223bd-d5d5-4a03-a698-3d7833663d4a)
+![ER-диаграмма](https://github.com/user-attachments/assets/c397f2ea-76fa-486e-bacd-8282716e1e21)
+
 
 
 ## 🔧 Настройка для разработки
