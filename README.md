@@ -85,23 +85,10 @@ docker-compose exec web python manage.py migrate
 ```bash
 docker-compose exec web python manage.py createsuperuser
 ```
+## Текущая ER-диаграмма базы данных
 
-## 🗄 Структура проекта
+![ER-диаграмма](https://github.com/user-attachments/assets/8fc223bd-d5d5-4a03-a698-3d7833663d4a)
 
-```
-.
-├── Dockerfile
-├── docker-compose.yml
-├── .env.example
-├── requirements.txt
-└── your_project/
-    ├── settings/
-    │   ├── __init__.py
-    │   ├── base.py
-    │   ├── production.py
-    │   └── development.py
-    └── wsgi.py
-```
 
 ## 🔧 Настройка для разработки
 
